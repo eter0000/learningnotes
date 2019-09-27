@@ -15,6 +15,15 @@ class MyLinkedList:
             return -1
         if index == 0:
             return self.val
+             v=self.next
+        i=1
+        
+        while v!= None:
+            if i == index:
+                return v.val
+            v=v.next
+            i+=1
+        return -1
 
     def addAtHead(self, val: int) -> None:
         """
