@@ -1,3 +1,7 @@
-# 自我練習
-linked list's youtube　： https://www.youtube.com/watch?v=JlMyYuY1aXU：
+# 學習歷程
+###1.Linked list
+###2.Min Stack
+###3.Two Sum
+###4.Reverse Integer
+
 
