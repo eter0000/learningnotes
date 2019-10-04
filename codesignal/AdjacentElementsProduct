@@ -1,0 +1,13 @@
+def adjacentElementsProduct(inputArray):
+    b=[]
+    i=0
+    for a in inputArray:
+        if len(inputArray)==1:
+            return inputArray[i]
+        else:
+                c=inputArray[i]*inputArray[i+1]
+                b.append(c)
+                i+=1
+                if i+1 >= len(inputArray):
+                    break
+    return(max(b))
