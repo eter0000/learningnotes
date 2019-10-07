@@ -1,7 +1,8 @@
-# My Learning Notes
-### 1.Linked list
-### 2.Min Stack
-### 3.Two Sum
-### 4.Reverse Integer
-
+## About Me
+   * 姓名 : 葉豐碩
+   * 就讀 : 東吳大學 巨量資料管理學院學士學位學程
+   * 星座 : 雙子座
+   * 興趣 : 運動、聽歌
+  
+## What's Big Data 
 
