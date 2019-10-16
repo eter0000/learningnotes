@@ -7,3 +7,5 @@
   * Top：回傳「最上面」的資料，不影響資料結構本身。確認目前位於箱子「最上面」的是哪本書。
   *IsEmpty：確認Stack裡是否有資料，不影響資料結構本身。確認箱子裡面有沒有書。
   * getSize：回傳Stack裡的資料個數，不影響資料結構本身。記錄目前箱子已經裝了多少本書。
+
+<img src="https://github.com/eter0000/learningnotes/blob/master/week3/1571204568273.jpg" height=300 weight=600>
