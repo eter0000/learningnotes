@@ -22,10 +22,10 @@
 ## 學習過程
  * 一開始的想法是從「比較」和「合併」這個部分開始著手，所以我先把list分成兩部分：L和R，再來給定他們各自的index(l、r、m)，我想說要讓它在某種條件下重複執行，所以就用while迴圈，再加上之前演習課老師有稍微提點，於是我就開始寫了
  
- <img src=''>
+ 
 
  * 結果跑出來
- <img src=''>
+ 
  
  * 他說我index out of range，這時我才想到我忘記考慮到如果其中一邊跑完的情況，於是我就再加入條件:如果index超過它的長度時，要把另外一組剩下的直接補上
  <img src='https://github.com/eter0000/learningnotes/blob/master/images/pmsort.jpg'>
