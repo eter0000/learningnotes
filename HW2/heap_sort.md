@@ -10,16 +10,20 @@
  * 結果跑出來
  <img src='https://github.com/eter0000/learningnotes/blob/master/images/msort3.jpg'>
  
- * 他說我index out of range，這時我才想到我忘記考慮到如果其中一邊跑完的情況，於是我就再加入條件:如果index超過它的長度時，要把另外一組剩下的直接補上
+ * 他說我index out of range，這時我才想到我忘記考慮到如果其中一邊跑完的情況，於是我就再加入條件:如果index超過它的長度時，要把另外一組剩下的直接補上，除此之外我發現我也忘記設l+1 跟 r+1，所以也一起加上去
  <img src='https://github.com/eter0000/learningnotes/blob/master/images/pmsort.jpg'>
  
 
  * 跑出來的樣子是
+ 
  <img src='https://github.com/eter0000/learningnotes/blob/master/images/pmsort1.jpg'>
  
  * 首先我先看沒錯誤，表示我程式碼沒問題，但還不知道跑出來的結果是否是我要的，於是我仔細的左右比對模擬，對完之後，太好了!
  終於跑出我想要的結果了，大家都說頭過身就過，「比較」跟「合併」的部分弄好了，下一個目標就是用迴圈去跑它了
- * 於是我就開始想到底要怎麼設迴圈，
+ 
+ * 於是我就開始想到底要怎麼設迴圈，但是再多設用一個迴圈也不曉得要設在哪裡，讓我卡關很久。後來我想到，既然是要讓它一直切割直到剩下一個元素，那就必須先切完，在由下而上執行回來，所以我想到在切割完的地方再跑一次merge_sort，這樣就可以一直切一直切，切到不能在切時，再一起整合，於是就變成
+ 
+ <img src='https://github.com/eter0000/learningnotes/blob/master/images/msort44.jpg'>
 
 
 
