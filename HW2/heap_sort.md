@@ -6,6 +6,15 @@
 ### 合併
  * 排序兩個只剩一個元素的小陣列並合併
  * 把兩邊排序好的小陣列合併並排序成一個陣列
- * 重複步驟二直到所有小陣列都合併成一個大陣列
+ * 重複步驟二直到所有小陣列都合併成一個大陣列  
+
+### 示意圖
+
+<img src='https://github.com/eter0000/learningnotes/blob/master/images/msort.png' weight=300 height=500>
+
+### 參考網站
+ * [初學者學演算法｜排序法進階：合併排序法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E6%8E%92%E5%BA%8F%E6%B3%95%E9%80%B2%E9%9A%8E-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95-6252651c6f7e)
+ * [Merge Sort - Wikipedia](https://en.wikipedia.org/wiki/Merge_algorithm)
  
+ ### 流程圖
  
