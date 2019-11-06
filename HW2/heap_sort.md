@@ -25,7 +25,10 @@
  
  <img src='https://github.com/eter0000/learningnotes/blob/master/images/msort44.jpg'>
 
-
+ * 但現實總是殘酷的
+ <img src='https://github.com/eter0000/learningnotes/blob/master/images/msort5.jpg'>
+ 
+ * 看到之後我整個傻眼，我打那麼多不就是在定義merge_sort嗎?怎麼會跟我說我沒有定義它?後來想想，不對喔，如果只是單純的def這樣寫是沒錯，但我是放在class裡，所以要呼叫自己時應該要再前面再加上`self.`
 
 # Merge Sort 簡介
 ### 拆分
