@@ -12,5 +12,5 @@
   * 兩種排序法各有所長，若你想省記憶體空間，那Heap sort就會比較適合你；若你跑大筆的數據，想節省時間，那Merge sort會達到你想要的成效(當然我是假設只有這兩個排序法在做比較)
   
   <img src='https://github.com/eter0000/learningnotes/blob/master/images/com.jpg' weight=450 height=450>
-參考資料
+* 參考資料
   * [Analysis of Algorithms](http://www-cs-students.stanford.edu/~rashmi/projects/Sorting.pdf)
