@@ -1,3 +1,14 @@
+# 作業
+  * [HW2](https://github.com/eter0000/learningnotes/tree/master/HW2)
+  * [HW3](https://github.com/eter0000/learningnotes/tree/master/HW3)
+  * [HW4](https://github.com/eter0000/learningnotes/tree/master/HW4)
+
+# 課後練習
+  * [week1](https://github.com/eter0000/learningnotes/tree/master/week1)
+  * [week2](https://github.com/eter0000/learningnotes/tree/master/week2)
+  * [week3](https://github.com/eter0000/learningnotes/tree/master/week3)
+  * [week4](https://github.com/eter0000/learningnotes/tree/master/week4)
+  * [week5](https://github.com/eter0000/learningnotes/tree/master/week5)
 # About Me
    * 姓名 : 葉豐碩
    * 就讀 : 東吳大學 巨量資料管理學院學士學位學程
