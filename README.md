@@ -9,6 +9,7 @@
   * [week3](https://github.com/eter0000/learningnotes/tree/master/week3)
   * [week4](https://github.com/eter0000/learningnotes/tree/master/week4)
   * [week5](https://github.com/eter0000/learningnotes/tree/master/week5)
+  * [leetcode](https://github.com/eter0000/learningnotes/tree/master/leetcode)
 # About Me
    * 姓名 : 葉豐碩
    * 就讀 : 東吳大學 巨量資料管理學院學士學位學程
