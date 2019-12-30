@@ -22,4 +22,5 @@
  * 跑出來的結果是有排序沒有錯，但它是descending的，我要的是漸增的結果才對啊，我才發現我的heap是把最大值交換到第一位，之後取出第一位，所以會有這樣的結果是正常的，所以我在最後return 回來的值改成`newlist[::-1]`，讓它從最後一位讀回來
  
  <img src='https://github.com/eter0000/learningnotes/blob/master/images/heap5.jpg'>
+ 
  * 太棒了，總算完工了!
