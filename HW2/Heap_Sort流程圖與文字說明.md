@@ -1,5 +1,6 @@
 # 流程圖
 <img src='https://github.com/eter0000/learningnotes/blob/master/images/heap.png'>
+
 # 學習過程
 * 一開始的想法是利用for迴圈由後往前比較上去:
   * 如果第2*w+1項 > 第w項，那就互換
