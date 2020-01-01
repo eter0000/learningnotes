@@ -10,6 +10,7 @@
   * [week3](https://github.com/eter0000/learningnotes/tree/master/week3)
   * [week4](https://github.com/eter0000/learningnotes/tree/master/week4)
   * [week5](https://github.com/eter0000/learningnotes/tree/master/week5)
+  * [week6](https://github.com/eter0000/learningnotes/tree/master/week6)
   * [leetcode](https://github.com/eter0000/learningnotes/tree/master/leetcode)
   * [codesignal](https://github.com/eter0000/learningnotes/tree/master/codesignal)
 # About Me
