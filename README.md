@@ -19,10 +19,17 @@
 # 課後練習
   * [week1](https://github.com/eter0000/learningnotes/tree/master/week1)
   * [week2](https://github.com/eter0000/learningnotes/tree/master/week2)
+    * [Link List](https://github.com/eter0000/learningnotes/blob/master/week2/Linked_List)
+    * [Link List 介紹](https://github.com/eter0000/learningnotes/blob/master/week2/README.md)
   * [week3](https://github.com/eter0000/learningnotes/tree/master/week3)
+    * [Min Stack](https://github.com/eter0000/learningnotes/blob/master/week3/MinStack.ipynb)
+    * [Stack介紹](https://github.com/eter0000/learningnotes/blob/master/week3/README.md)
   * [week4](https://github.com/eter0000/learningnotes/tree/master/week4)
+    * [Queue介紹](https://github.com/eter0000/learningnotes/blob/master/week4/README.md)
   * [week5](https://github.com/eter0000/learningnotes/tree/master/week5)
+    * [Quick_Sort](https://github.com/eter0000/learningnotes/blob/master/week5/Quick_Sort1.ipynb)
   * [week6](https://github.com/eter0000/learningnotes/tree/master/week6)
+    * [時間複雜度](https://github.com/eter0000/learningnotes/blob/master/week6/%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6.ipynb)
   * [leetcode](https://github.com/eter0000/learningnotes/tree/master/leetcode)
   * [codesignal](https://github.com/eter0000/learningnotes/tree/master/codesignal)
 # About Me
