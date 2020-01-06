@@ -33,10 +33,9 @@
   * week1(09月 9日 - 09月 15日)
     * 中秋節放假
   * week2(09月 16日 - 09月 22日)
-    * 
-
+    * [Linked List](https://github.com/eter0000/learningnotes/blob/master/Week/week2.md)
   * week3(09月 23日 - 09月 29日)
-    * 
+    * [Stack&Queue](https://github.com/eter0000/learningnotes/blob/master/Week/week3.md)
   * week4(09月 30日 - 10月 6日)
     * 
   * week5(10月 7日 - 10月 13日)
