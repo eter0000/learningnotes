@@ -25,6 +25,10 @@
     * [BFS](https://github.com/eter0000/learningnotes/blob/master/HW5/BFS_06170210.py)
     * [流程圖、學習歷程、BFS和DFS的原理與比較](https://github.com/eter0000/learningnotes/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%E5%92%8CDFS%E7%9A%84%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.ipynb)
 
+  * [HW6](https://github.com/eter0000/learningnotes/tree/master/HW6)
+    * [Dijkstra](https://github.com/eter0000/learningnotes/blob/master/HW6/Dijkstra_06170210.py)
+    * [流程圖、學習歷程、Dijkstra與Kruskal原理說明](https://github.com/eter0000/learningnotes/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
+  
 # 課程內容
   * week1(09月 9日 - 09月 15日)
     * 中秋節放假
@@ -68,7 +72,7 @@
   
   
   # 課後練習
-  * [leetcode](https://github.com/eter0000/learningnotes/tree/master/leetcode)
+  * [Leetcode](https://github.com/eter0000/learningnotes/tree/master/Leetcode)
   * [codesignal](https://github.com/eter0000/learningnotes/tree/master/codesignal)
 
   
