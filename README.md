@@ -5,6 +5,9 @@
    * 興趣 : 運動、聽歌、看電影
 
 # 作業
+  * [HW1](https://github.com/eter0000/learningnotes/tree/master/HW1)
+    * [Quick_Sort](https://github.com/eter0000/learningnotes/blob/master/HW1/Quick_Sort1.ipynb)
+    * 
   * [HW2](https://github.com/eter0000/learningnotes/tree/master/HW2)
     * [heap_sort](https://github.com/eter0000/learningnotes/blob/master/HW2/heap_sort_06170210.py)
     * [merge_sort](https://github.com/eter0000/learningnotes/blob/master/HW2/merge_sort_06170210.py)
