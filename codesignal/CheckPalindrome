@@ -1,4 +1,0 @@
-def checkPalindrome(inputString):
-    stringlen=len(inputString)
-    revString=inputString[stringlen::-1]
-    return inputString==revString
