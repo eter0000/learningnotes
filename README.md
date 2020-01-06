@@ -33,17 +33,16 @@
   * week1(09月 9日 - 09月 15日)
     * 中秋節放假
   * week2(09月 16日 - 09月 22日)
-    * [Link List](https://github.com/eter0000/learningnotes/blob/master/week2/Linked_List)
-    * [Link List 介紹](https://github.com/eter0000/learningnotes/blob/master/week2/README.md)
+    * 
+
   * week3(09月 23日 - 09月 29日)
-    * [Min Stack](https://github.com/eter0000/learningnotes/blob/master/week3/MinStack.ipynb)
-    * [Stack介紹](https://github.com/eter0000/learningnotes/blob/master/week3/README.md)
+    * 
   * week4(09月 30日 - 10月 6日)
-    * [Queue介紹](https://github.com/eter0000/learningnotes/blob/master/week4/README.md)
+    * 
   * week5(10月 7日 - 10月 13日)
-    * [Quick_Sort](https://github.com/eter0000/learningnotes/blob/master/week5/Quick_Sort1.ipynb)
+    * 國慶放假
   * week6(10月 14日 - 10月 20日)
-    * [時間複雜度](https://github.com/eter0000/learningnotes/blob/master/week6/%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6.ipynb)
+    * 
   * week7(10月 21日 - 10月 27日)
     * 
   * week8(10月 28日 - 11月 3日)
