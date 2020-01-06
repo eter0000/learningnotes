@@ -22,7 +22,7 @@
    
 # 簡介 : Queue
  * Queue是具有「First-In-First-Out」的資料結構，如同排隊買車票的隊伍即可視為Queue，先進入隊伍的人，可以優先離開隊伍，走向售票窗口買票，而後到的人，就需要等隊伍前面的人都買完票後才能買。
-<img src='https://github.com/eter0000/learningnotes/blob/master/week4/queue.png' height=200 weight=300>
+<img src='https://github.com/alrightchiu/SecondRound/blob/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/Queue/intro/f1.png?raw=true' height=200 weight=300>
 
  * 一般的Queue，會有以下幾個處理資料結構的功能：
    * Push(data)：把資料從Queue的「後面」放進Queue，並更新成新的back。
