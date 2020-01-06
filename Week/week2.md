@@ -33,3 +33,6 @@
   * 無法預期資料數量時，使用Linked list就沒有resize的問題。 
   * 需要頻繁地新增/刪除資料時。
   * 不需要快速查詢資料。
+  
+# 參考資料
+  * [Linked List: Intro(簡介)](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
