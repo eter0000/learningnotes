@@ -24,7 +24,7 @@
 
 # 課程內容
   * week1(09月 9日 - 09月 15日)
-   * 中秋節放假
+    * 中秋節放假
   * week2(09月 16日 - 09月 22日)
     * [Link List](https://github.com/eter0000/learningnotes/blob/master/week2/Linked_List)
     * [Link List 介紹](https://github.com/eter0000/learningnotes/blob/master/week2/README.md)
@@ -38,29 +38,29 @@
   * week6(10月 14日 - 10月 20日)
     * [時間複雜度](https://github.com/eter0000/learningnotes/blob/master/week6/%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6.ipynb)
   * week7(10月 21日 - 10月 27日)
-   * 
+    * 
   * week8(10月 28日 - 11月 3日)
-   * 
+    * 
   * week9(11月 4日 - 11月 10日)
-   *
+    *
   * week10(11月 11日 - 11月 17日)
-   * 
+    * 
   * week11(11月 18日 - 11月 24日)
-   * 
+    * 
   * week12(11月 25日 - 12月 1日)
-   * 
+    * 
   * week13(12月 2日 - 12月 8日)
-   * 
+    * 
   * week14(12月 9日 - 12月 15日)
-   * 
+    * 
   * week15(12月 16日 - 12月 22日)
-   * 
+    * 
   * week16(12月 23日 - 12月 29日)
-   * 
+    * 
   * week17(12月 30日 - 01月 5日)
-   * 期末考
+    * 期末考
   * week18(01月 6日 - 01月 12日)
-   * 停課
+    * 停課
   
   
   
