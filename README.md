@@ -16,20 +16,36 @@
     * [BFS](https://github.com/eter0000/learningnotes/blob/master/HW5/BFS_06170210.py)
     * [流程圖、學習歷程、BFS和DFS的原理與比較](https://github.com/eter0000/learningnotes/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%E5%92%8CDFS%E7%9A%84%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.ipynb)
 
-# 課後練習
-  * [week1](https://github.com/eter0000/learningnotes/tree/master/week1)
-  * [week2](https://github.com/eter0000/learningnotes/tree/master/week2)
+# 課程內容
+  * week1(09月 9日 - 09月 15日)
+  * week2(09月 16日 - 09月 22日)
     * [Link List](https://github.com/eter0000/learningnotes/blob/master/week2/Linked_List)
     * [Link List 介紹](https://github.com/eter0000/learningnotes/blob/master/week2/README.md)
-  * [week3](https://github.com/eter0000/learningnotes/tree/master/week3)
+  * week3(09月 23日 - 09月 29日)
     * [Min Stack](https://github.com/eter0000/learningnotes/blob/master/week3/MinStack.ipynb)
     * [Stack介紹](https://github.com/eter0000/learningnotes/blob/master/week3/README.md)
-  * [week4](https://github.com/eter0000/learningnotes/tree/master/week4)
+  * week4(09月 30日 - 10月 6日)
     * [Queue介紹](https://github.com/eter0000/learningnotes/blob/master/week4/README.md)
-  * [week5](https://github.com/eter0000/learningnotes/tree/master/week5)
+  * week5(10月 7日 - 10月 13日)
     * [Quick_Sort](https://github.com/eter0000/learningnotes/blob/master/week5/Quick_Sort1.ipynb)
-  * [week6](https://github.com/eter0000/learningnotes/tree/master/week6)
+  * week6(10月 14日 - 10月 20日)
     * [時間複雜度](https://github.com/eter0000/learningnotes/blob/master/week6/%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6.ipynb)
+  * week7(10月 21日 - 10月 27日)
+  * week8(10月 28日 - 11月 3日)
+  * week9(11月 4日 - 11月 10日)
+  * week10(11月 11日 - 11月 17日)
+  * week11(11月 18日 - 11月 24日)
+  * week12(11月 25日 - 12月 1日)
+  * week13(12月 2日 - 12月 8日)
+  * week14(12月 9日 - 12月 15日)
+  * week15(12月 16日 - 12月 22日)
+  * week16(12月 23日 - 12月 29日)
+  * week17(12月 30日 - 01月 5日)
+  * week18(01月 6日 - 01月 12日)
+  
+  
+  
+  # 課後練習
   * [leetcode](https://github.com/eter0000/learningnotes/tree/master/leetcode)
   * [codesignal](https://github.com/eter0000/learningnotes/tree/master/codesignal)
 # About Me
