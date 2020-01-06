@@ -8,7 +8,7 @@
   * IsEmpty：確認Stack裡是否有資料，不影響資料結構本身。確認箱子裡面有沒有書。
   * getSize：回傳Stack裡的資料個數，不影響資料結構本身。記錄目前箱子已經裝了多少本書。
 
-<img src="https://github.com/eter0000/learningnotes/blob/master/week3/1571204568273.jpg" height=300 weight=600>
+<img src="https://github.com/alrightchiu/SecondRound/blob/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/Stack/intro/f1.png?raw=true" height=300 weight=600>
 
 # Stack的應用：
 * Stack最主要的功能是「記得先前的資訊」，所以時常用來處理需要「回復到先前的狀態」的問題，也稱為Back-Tracking問題，例如：
