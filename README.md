@@ -37,7 +37,7 @@
   * week3(09月 23日 - 09月 29日)
     * [Stack&Queue.md](https://github.com/eter0000/learningnotes/blob/master/Week/week3.md)
   * week4(09月 30日 - 10月 6日)
-    * 
+    * [Insertion Sort.md](https://github.com/eter0000/learningnotes/blob/master/Week/week4.md)
   * week5(10月 7日 - 10月 13日)
     * 國慶放假
   * week6(10月 14日 - 10月 20日)
