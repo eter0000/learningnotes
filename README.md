@@ -43,7 +43,7 @@
   * week6(10月 14日 - 10月 20日)
     * [Heap Sort & Quick Sort.md](https://github.com/eter0000/learningnotes/blob/master/Week/week6.md)
   * week7(10月 21日 - 10月 27日)
-    * 
+    * [Merge Sort & Heap Sort補充資料.md](https://github.com/eter0000/learningnotes/blob/master/Week/week7.md)
   * week8(10月 28日 - 11月 3日)
     * 
   * week9(11月 4日 - 11月 10日)
