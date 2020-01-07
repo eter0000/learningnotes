@@ -45,7 +45,7 @@
   * week7(10月 21日 - 10月 27日)
     * [Merge Sort & Heap Sort補充資料.md](https://github.com/eter0000/learningnotes/blob/master/Week/week7.md)
   * week8(10月 28日 - 11月 3日)
-    * 
+    * [Binary Tree.md](https://github.com/eter0000/learningnotes/blob/master/Week/week8.md)
   * week9(11月 4日 - 11月 10日)
     *
   * week10(11月 11日 - 11月 17日)
