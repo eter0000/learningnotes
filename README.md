@@ -35,13 +35,13 @@
   * week2(09月 16日 - 09月 22日)
     * [Linked List.md](https://github.com/eter0000/learningnotes/blob/master/Week/week2.md)
   * week3(09月 23日 - 09月 29日)
-    * [Stack&Queue.md](https://github.com/eter0000/learningnotes/blob/master/Week/week3.md)
+    * [Stack & Queue.md](https://github.com/eter0000/learningnotes/blob/master/Week/week3.md)
   * week4(09月 30日 - 10月 6日)
     * [Insertion Sort.md](https://github.com/eter0000/learningnotes/blob/master/Week/week4.md)
   * week5(10月 7日 - 10月 13日)
     * 國慶放假
   * week6(10月 14日 - 10月 20日)
-    * 
+    * [Heap Sort & Quick Sort.md](https://github.com/eter0000/learningnotes/blob/master/Week/week6.md)
   * week7(10月 21日 - 10月 27日)
     * 
   * week8(10月 28日 - 11月 3日)
