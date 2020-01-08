@@ -53,7 +53,7 @@
   * week11(11月 18日 - 11月 24日)
     * [Hash Table.md](https://github.com/eter0000/learningnotes/blob/master/Week/week11.md)
   * week12(11月 25日 - 12月 1日)
-    * 
+    * [BFS & Pair Programming.md](https://github.com/eter0000/learningnotes/blob/master/Week/week12.md)
   * week13(12月 2日 - 12月 8日)
     * 
   * week14(12月 9日 - 12月 15日)
