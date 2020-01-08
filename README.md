@@ -55,7 +55,7 @@
   * week12(11月 25日 - 12月 1日)
     * [BFS & Pair Programming.md](https://github.com/eter0000/learningnotes/blob/master/Week/week12.md)
   * week13(12月 2日 - 12月 8日)
-    * 
+    * [DFS & 翻轉達克效應.md](https://github.com/eter0000/learningnotes/blob/master/Week/week13.md)
   * week14(12月 9日 - 12月 15日)
     * 
   * week15(12月 16日 - 12月 22日)
