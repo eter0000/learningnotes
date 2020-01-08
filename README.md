@@ -57,7 +57,7 @@
   * week13(12月 2日 - 12月 8日)
     * [DFS & 翻轉達克效應.md](https://github.com/eter0000/learningnotes/blob/master/Week/week13.md)
   * week14(12月 9日 - 12月 15日)
-    * 
+    * [Minimum Spanning Tree.md](https://github.com/eter0000/learningnotes/blob/master/Week/week14.md)
   * week15(12月 16日 - 12月 22日)
     * 
   * week16(12月 23日 - 12月 29日)
