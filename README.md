@@ -47,7 +47,7 @@
   * week8(10月 28日 - 11月 3日)
     * [Binary Tree.md](https://github.com/eter0000/learningnotes/blob/master/Week/week8.md)
   * week9(11月 4日 - 11月 10日)
-    *
+    * [Binary Search Tree.md](https://github.com/eter0000/learningnotes/blob/master/Week/week9.md)
   * week10(11月 11日 - 11月 17日)
     * 
   * week11(11月 18日 - 11月 24日)
