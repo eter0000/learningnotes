@@ -61,7 +61,7 @@
   * week15(12月 16日 - 12月 22日)
     * 
   * week16(12月 23日 - 12月 29日)
-    * 
+    * [期末考說明 &　區塊鍊demo.md](https://github.com/eter0000/learningnotes/blob/master/Week/week16.md)
   * week17(12月 30日 - 01月 5日)
     * 期末考
   * week18(01月 6日 - 01月 12日)
