@@ -49,7 +49,7 @@
   * week9(11月 4日 - 11月 10日)
     * [Binary Search Tree.md](https://github.com/eter0000/learningnotes/blob/master/Week/week9.md)
   * week10(11月 11日 - 11月 17日)
-    * 
+    * [Red Black Tree.md](https://github.com/eter0000/learningnotes/blob/master/Week/week10.md)
   * week11(11月 18日 - 11月 24日)
     * 
   * week12(11月 25日 - 12月 1日)
