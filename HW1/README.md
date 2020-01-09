@@ -1,4 +1,4 @@
-# Quick Sort
+# HW1 - Quick Sort
 * 快速排序作法：
   * 選定一個基準值(Pivot)
   * 將比基準值(Pivot)小的數值移到基準值左邊，形成左子串列
