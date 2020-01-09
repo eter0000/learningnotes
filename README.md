@@ -86,7 +86,9 @@
   
   # 課後練習
   * [Leetcode](https://github.com/eter0000/learningnotes/tree/master/Leetcode)
-  * [codesignal](https://github.com/eter0000/learningnotes/tree/master/codesignal)
+    * [README.md](https://github.com/eter0000/learningnotes/blob/master/Leetcode/README.md)
+  * [Codesignal](https://github.com/eter0000/learningnotes/tree/master/Codesignal)
+    * [README.md](https://github.com/eter0000/learningnotes/blob/master/Codesignal/README.md)
 
   
 # About Big Data 
