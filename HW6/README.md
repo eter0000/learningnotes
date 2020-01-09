@@ -1,1 +1,1 @@
-# HW6 - Dijkstra
+# HW6 - Dijkstra & Kruskal
