@@ -13,3 +13,7 @@
       * [Heap_Sort流程圖與文字說明.md](https://github.com/eter0000/learningnotes/blob/master/HW2/Heap_Sort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
       * [Merge_Sort流程圖與文字說明.md](https://github.com/eter0000/learningnotes/blob/master/HW2/Merge_Sort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
       * [Heap_sort與Merge_sort之比較.md](https://github.com/eter0000/learningnotes/blob/master/HW2/Heap_sort%E8%88%87Merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
+
+* 參考網站 : 
+  * https://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html
+  * https://www.geeksforgeeks.org/python-program-for-merge-sort/
