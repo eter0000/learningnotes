@@ -39,6 +39,6 @@
   
  <img src="https://pic.pimg.tw/emn178/1333181106-1205952279_n.png">
 
-* 參考資料
+* 參考網站
   * [Comparison Sort: Quick Sort(快速排序法)](http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html)
   * [[演算法] 快速排序法(Quick Sort)](http://notepad.yehyeh.net/Content/Algorithm/Sort/Quick/Quick.php)
