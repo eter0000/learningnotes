@@ -6,28 +6,43 @@
 
 # 作業
   * [HW1](https://github.com/eter0000/learningnotes/tree/master/HW1)
-    * [Quick_Sort](https://github.com/eter0000/learningnotes/blob/master/HW1/Quick_Sort1.ipynb)
-    * [README.md](https://github.com/eter0000/learningnotes/blob/master/HW1/README.md)
+     * [README.md](https://github.com/eter0000/learningnotes/blob/master/HW1/README.md)
+        * [Quick_Sort](https://github.com/eter0000/learningnotes/blob/master/HW1/Quick_Sort1.ipynb)
+   
+    
   * [HW2](https://github.com/eter0000/learningnotes/tree/master/HW2)
-    * [Heap_sort](https://github.com/eter0000/learningnotes/blob/master/HW2/heap_sort_06170210.py)
-    * [Merge_sort](https://github.com/eter0000/learningnotes/blob/master/HW2/merge_sort_06170210.py)
-    * [Heap_sort流程圖與文字說明](https://github.com/eter0000/learningnotes/blob/master/HW2/Heap_Sort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
-    * [Merge_sort流程圖與文字說明](https://github.com/eter0000/learningnotes/blob/master/HW2/Merge_Sort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
-    * [Heap_sort&merge_sort之比較](https://github.com/eter0000/learningnotes/blob/master/HW2/Heap_sort%E8%88%87Merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
+    * [README.md](https://github.com/eter0000/learningnotes/blob/master/HW2/README.md)
+      * [Heap_sort](https://github.com/eter0000/learningnotes/blob/master/HW2/heap_sort_06170210.py)
+      * [Merge_sort](https://github.com/eter0000/learningnotes/blob/master/HW2/merge_sort_06170210.py)
+      * [Heap_sort流程圖與文字說明](https://github.com/eter0000/learningnotes/blob/master/HW2/Heap_Sort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
+      * [Merge_sort流程圖與文字說明](https://github.com/eter0000/learningnotes/blob/master/HW2/Merge_Sort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
+      * [Heap_sort&merge_sort之比較](https://github.com/eter0000/learningnotes/blob/master/HW2/Heap_sort%E8%88%87Merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
+    
+    
   * [HW3](https://github.com/eter0000/learningnotes/tree/master/HW3)
-    * [BST](https://github.com/eter0000/learningnotes/blob/master/HW3/binary_search_tree_06170210.py)
-    * [Binary Search Tree 新增、刪除、查詢、修改功能說明](https://github.com/eter0000/learningnotes/blob/master/HW3/Binary%20Search%20Tree%20%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
-    * [流程圖與文字說明](https://github.com/eter0000/learningnotes/blob/master/HW3/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
+    * [README.md](https://github.com/eter0000/learningnotes/blob/master/HW3/README.md)
+      * [BST](https://github.com/eter0000/learningnotes/blob/master/HW3/binary_search_tree_06170210.py)
+      * [Binary Search Tree 新增、刪除、查詢、修改功能說明](https://github.com/eter0000/learningnotes/blob/master/HW3/Binary%20Search%20Tree%20%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
+      * [流程圖與文字說明](https://github.com/eter0000/learningnotes/blob/master/HW3/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)
+    
+    
   * [HW4](https://github.com/eter0000/learningnotes/tree/master/HW4)
-    * [Hash_Table](https://github.com/eter0000/learningnotes/blob/master/HW4/hash_table_06170210.py)
-    * [流程圖與學習歷程與Hash原理解釋](https://github.com/eter0000/learningnotes/blob/master/HW4/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B.ipynb)
+    * [README.md](https://github.com/eter0000/learningnotes/blob/master/HW4/README.md) 
+      * [Hash_Table](https://github.com/eter0000/learningnotes/blob/master/HW4/hash_table_06170210.py)
+      * [流程圖與學習歷程與Hash原理解釋](https://github.com/eter0000/learningnotes/blob/master/HW4/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B.ipynb)
+    
+    
   * [HW5](https://github.com/eter0000/learningnotes/tree/master/HW5)
-    * [BFS](https://github.com/eter0000/learningnotes/blob/master/HW5/BFS_06170210.py)
-    * [流程圖、學習歷程、BFS和DFS的原理與比較](https://github.com/eter0000/learningnotes/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%E5%92%8CDFS%E7%9A%84%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.ipynb)
+    * [README.md](https://github.com/eter0000/learningnotes/blob/master/HW5/README.md)
+      * [BFS](https://github.com/eter0000/learningnotes/blob/master/HW5/BFS_06170210.py)
+      * [流程圖、學習歷程、BFS和DFS的原理與比較](https://github.com/eter0000/learningnotes/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%E5%92%8CDFS%E7%9A%84%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.ipynb)
+    
 
   * [HW6](https://github.com/eter0000/learningnotes/tree/master/HW6)
-    * [Dijkstra](https://github.com/eter0000/learningnotes/blob/master/HW6/Dijkstra_06170210.py)
-    * [流程圖、學習歷程、Dijkstra與Kruskal原理說明](https://github.com/eter0000/learningnotes/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
+    * [README.md](https://github.com/eter0000/learningnotes/tree/master/HW6)
+      * [Dijkstra](https://github.com/eter0000/learningnotes/blob/master/HW6/Dijkstra_06170210.py)
+      * [流程圖、學習歷程、Dijkstra與Kruskal原理說明](https://github.com/eter0000/learningnotes/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
+    
   
 # 課程內容
   * week1(09月 9日 - 09月 15日)
